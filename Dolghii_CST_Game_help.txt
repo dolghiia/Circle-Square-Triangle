@@ -1,0 +1,55 @@
+********************************************************************************
+Author -  Alexander Dolghii
+
+Class / Section - ICS3U1 / 2.0
+
+Date - 5/1/2019
+
+Version - Latest (good) version (1.1)
+
+Unit / Question # - Software Development
+
+Programming Language - Python 3.4.4 or later
+
+Problem Description - Program is designed to simulate a rock paper scissors
+game with a different theme: Circle Square Triangle.
+
+Program Assumptions - You will need a basic computer running Windows 10 or 
+later with Python 3.4.4 or later. You will also need to install EasyGUI 0.97 or 
+later.
+
+Features of Program - 
+
+Random Turn Choice: Allows the user to have the option to let the program 
+randomly choose their turn for them. (Added in 1.1)
+
+Tie Breaker: Feature included in base application in which the game will 
+always have a winner decided even if there are draws. 
+
+Restrictions - User cannot quit midgame unless they force quit.
+
+********************************************************************************
+
+Known Errors - No known errors found.
+
+Implementation Details / How to build the program - Make sure all the neccessary
+files are in the same folder/location as the program. Make sure you have easyGUI
+0.97 or later installed as well. Once that is made sure, start the program. 
+There is a help menu for information on how to play (which is strongly 
+recommended). After that, start the game. Click on your choice and the 
+program will decide if you have won against your opponent. If there is a draw, 
+you play for the same point again. Most importantly, have fun!
+
+Additional Files - 
+
+MAKE SURE ALL FILES ARE IN THE SAME LOCATION AS THE PROGRAM
+
+1. Dolghii_cpu_circle.jpg
+2. Dolghii_cpu_triangle.jpg
+3. Dolghii_cpu_square.jpg
+4. Dolghii_user_circle.jpg
+5. Dolghii_user_triangle.jpg
+6. Dolghii_user_square.jpg
+7. Dolghii_CST_Logo.jpg
+8. Dolghii_you_lose.jpg
+9. Dolghii_you_win.jpg
